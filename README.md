@@ -43,13 +43,10 @@ All blog posts are stored in `src/content/blog` directory.
 **Type Checking** - [TypeScript](https://www.typescriptlang.org/)  
 **Component Framework** - [ReactJS](https://reactjs.org/)  
 **Styling** - [TailwindCSS](https://tailwindcss.com/)  
-**UI/UX** - [Figma](https://figma.com)  
 **Fuzzy Search** - [FuseJS](https://fusejs.io/)  
 **Icons** - [Boxicons](https://boxicons.com/) | [Tablers](https://tabler-icons.io/)  
 **Code Formatting** - [Prettier](https://prettier.io/)  
-**Deployment** - [Cloudflare Pages](https://pages.cloudflare.com/)  
-**Illustration in About Page** - [https://freesvgillustration.com](https://freesvgillustration.com/)  
-**Linting** - [ESLint](https://eslint.org)
+
 
 ## 🧞 Commands
 
@@ -67,11 +64,8 @@ All commands are run from the root of the project, from a terminal:
 | `npm run cz`           | Commit code changes with commitizen                                                                                              |
 | `npm run lint`         | Lint with ESLint                                                                                                                 |
 
-## 📜 License
-
-Licensed under the MIT License, Copyright © 2023
 
 ---
 
 Made with 🤍 by [Twilighty-abhi](https://www.abhiramnj.live) 👨🏻‍💻
-Base template Taken from [Astro paper](https://github.com/satnaing/astro-paper).
+Base template Taken from [satnaing](https://github.com/satnaing).
